@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frequency_allocation_plan", "Frequency_allocation_plan\Frequency_allocation_plan.csproj", "{290D4AB2-28AD-463B-9C2E-5740B5D4B3E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{290D4AB2-28AD-463B-9C2E-5740B5D4B3E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{290D4AB2-28AD-463B-9C2E-5740B5D4B3E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{290D4AB2-28AD-463B-9C2E-5740B5D4B3E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{290D4AB2-28AD-463B-9C2E-5740B5D4B3E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81D401DF-D6C2-43A0-9C88-72FB1E70741C}
+	EndGlobalSection
+EndGlobal
